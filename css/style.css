@@ -1,0 +1,17 @@
+body {
+  font-family: "Times New Roman";
+}
+h1 {
+  font-family: Impact;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  cursor: default;
+}
+button:hover {
+  background-color: green;
+}
